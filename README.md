@@ -2,7 +2,7 @@
 This app is created with NextJS and tailwind css. We used themoviedb.org api to create this application.
 
 ## Hosting at Vercel
-[Hulu App Link](https://vercel.com/wdsandeep/next-tailwind-hulu-app/)
+[Hulu App Link](https://next-tailwind-hulu-app.vercel.app/)
 
 ## How to Run Nuxt App
 
